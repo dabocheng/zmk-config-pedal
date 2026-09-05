@@ -1,0 +1,6 @@
+if SHIELD_PAGETURNER
+
+config ZMK_KEYBOARD_NAME
+    default "Page Turner"
+
+endif
